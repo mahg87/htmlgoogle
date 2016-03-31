@@ -1,0 +1,97 @@
+nav{
+	font-family: sans-serif;
+	font-size: small;
+	float: right;
+	color: gray;
+}
+
+
+
+a{
+	margin-left:10px;
+	text-decoration: none;
+	color: grey; 
+}
+
+#cuadritos{
+	width: 100px;
+	margin-bottom: auto;
+	margin-left: 12px;
+}
+
+footer{
+	background-color: #F2F2F2;
+	height: 50px;
+}
+
+section{
+	height: 635px;
+}
+#izquierda{
+	font-family: sans-serif;
+	font-size: small;
+	float: left;
+	color: gray;
+	margin-top: 10px;
+}
+
+#derecha{
+	font-family: sans-serif;
+	font-size: small;
+	float: right;
+	color: gray;
+	margin-top: 10px;
+}
+
+#doodle{
+	height: 200px;
+	margin-top: 80px;
+	margin-left: 325px;
+}
+
+#searchbar{
+	margin-left: 320px;
+	height: 30px;
+	width: 500px;
+	vertical-align: 16px;
+}
+
+#microfono{
+	height: 40px;
+	margin-right: 7px;
+}
+
+#boton1{
+		margin-left: 425px;
+		margin-top: 20px;
+		height: 36px;
+		font-family: sans-serif;
+		color: grey;
+		background-color:#F4F4F4;
+		font-size:13px;
+		border:none;
+		text-decoration: none;
+	}
+
+#boton2{ 
+		margin-left:  10px;
+		height: 36px;
+		font-family: sans-serif;
+		color: grey;
+		background-color:#F4F4F4;
+		font-size:13px;
+		border:none;
+		text-decoration: none;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
